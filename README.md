@@ -1,2 +1,2 @@
 # Capstone
-Repository manajemen rumah sakit
+Repository Hospitalsm (manajemen rumah sakit)
